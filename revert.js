@@ -1,4 +1,4 @@
 function revert() {
-  console.log('haha');
+  console.log('xixi');
 }
 revert();
